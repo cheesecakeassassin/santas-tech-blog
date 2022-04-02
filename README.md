@@ -21,9 +21,9 @@ https://santas-tech-blog.herokuapp.com/
 https://github.com/cheesecakeassassin/santas-tech-blog
 
 ## Working page screenshots 
-<img src="./public/assets/images/santas-tech-blog-1.png">
-<img src="./public/assets/images/santas-tech-blog-2.png">
-<img src="./public/assets/images/santas-tech-blog-3.png">
+<img src="./public/images/santas-tech-blog-1.png">
+<img src="./public/images/santas-tech-blog-2.png">
+<img src="./public/images/santas-tech-blog-3.png">
 
 ## Contributions
 ❤️Made by [Sebastian Santa]
