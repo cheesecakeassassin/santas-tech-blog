@@ -3,103 +3,103 @@ const { Post } = require('../models');
 const postdata = [
   {
     title: 'Donec posuere metus vitae ipsum.',
-    post_url: 'https://buzzfeed.com/in/imperdiet/et/commodo/vulputate.png',
+    blog_entry: 'lorem ipsum or whatever',
     user_id: 10
   },
   {
     title: 'Morbi non quam nec dui luctus rutrum.',
-    post_url: 'https://nasa.gov/donec.json',
+    blog_entry: 'Hola mi nombre es Sebastian, como se llama usted?',
     user_id: 8
   },
   {
     title: 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.',
-    post_url: 'https://europa.eu/parturient/montes/nascetur/ridiculus/mus/etiam/vel.aspx',
+    blog_entry: 'Hey guys what do you think about quantum computing?',
     user_id: 1
   },
   {
     title: 'Nunc purus.',
-    post_url: 'http://desdev.cn/enim/blandit/mi.jpg',
+    blog_entry: 'Did you check out the new DeepMind AI destroy the best chess engines easily?!',
     user_id: 4
   },
   {
     title: 'Pellentesque eget nunc.',
-    post_url: 'http://google.ca/nam/nulla/integer.aspx',
+    blog_entry: 'I like cheesecake, how about you?',
     user_id: 7
   },
   {
     title: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.',
-    post_url: 'https://stanford.edu/consequat.png',
+    blog_entry: 'Watashi wa daigaku de nihongo no gakusei desu yo!',
     user_id: 4
   },
   {
     title: 'In hac habitasse platea dictumst.',
-    post_url: 'http://edublogs.org/non/ligula/pellentesque.js',
+    blog_entry: 'La vida te da sorpresas, sorpresas te da la vida hay Dios',
     user_id: 1
   },
   {
     title: 'Morbi non quam nec dui luctus rutrum.',
-    post_url: 'http://ucla.edu/consequat/nulla.html',
+    blog_entry: 'Si naciste pa martillo, del cielo te caen los clavos',
     user_id: 1
   },
   {
     title: 'Duis ac nibh.',
-    post_url: 'http://theguardian.com/dui/vel/nisl/duis/ac/nibh.aspx',
+    blog_entry: 'There is a lady who knows all that glitters is gold and shes buying a stairway to Heaven',
     user_id: 9
   },
   {
     title: 'Curabitur at ipsum ac tellus semper interdum.',
-    post_url: 'https://reverbnation.com/ligula/sit.jpg',
+    blog_entry: 'Cual prisionera perpetua, te encontre atada al fracaso',
     user_id: 5
   },
   {
     title: 'In hac habitasse platea dictumst.',
-    post_url: 'http://china.com.cn/lectus/vestibulum.json',
+    blog_entry: 'Y creyendo en tus promesas de amor, yo te refugie en mis brasos',
     user_id: 3
   },
   {
     title: 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.',
-    post_url: 'http://networksolutions.com/nam/ultrices/libero/non/mattis/pulvinar.json',
+    blog_entry: 'Little black submarines, operator please, put me back on the line',
     user_id: 10
   },
   {
     title: 'Donec dapibus.',
-    post_url: 'https://instagram.com/ac/neque/duis/bibendum/morbi/non.xml',
+    blog_entry: 'How I wish, how I wish you were here',
     user_id: 8
   },
   {
     title: 'Nulla tellus.',
-    post_url: 'https://lycos.com/natoque/penatibus/et.html',
+    blog_entry: 'And now, the end is near, and so I face my final curtain',
     user_id: 3
   },
   {
     title: 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.',
-    post_url: 'https://gmpg.org/lorem.jpg',
+    blog_entry: 'My friends, I will say it clear, I will state my case of which I am certain',
     user_id: 3
   },
   {
     title:
       'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.',
-    post_url: 'https://paginegialle.it/mattis/egestas.jsp',
+    blog_entry: 'Regrets I have had a few, but then again, too few to mention',
     user_id: 7
   },
   {
     title: 'In hac habitasse platea dictumst.',
-    post_url: 'http://wikia.com/turpis/eget.jpg',
+    blog_entry: 'I did what I had to do and saw it through without exemption',
     user_id: 6
   },
   {
     title: 'Etiam justo.',
-    post_url: 'https://shareasale.com/quis.json',
+    blog_entry: 'Olha que coisa mas linda mas cheia de graca, e ela menina que vem e que passa',
     user_id: 4
   },
   {
     title: 'Nulla ut erat id mauris vulputate elementum.',
-    post_url: 'http://java.com/diam/neque/vestibulum/eget/vulputate/ut/ultrices.png',
+    blog_entry: 'Num doce balanco caminho do mar',
     user_id: 6
   },
   {
     title: 'Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.',
-    post_url: 'https://java.com/at/nibh/in.png',
+    blog_entry: 'Mousa do corpo dourado do sol de Ipanema, e seu balancao e mais que um poema',
     user_id: 7
   }
 ];
